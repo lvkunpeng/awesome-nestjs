@@ -27,22 +27,26 @@
   - [官方文档](https://docs.nestjs.com)
   - [中文文档](https://docs.nestjs.cn/)
   - [git仓库](https://github.com/nestjs/nest)
-- 教程
-  - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
-  - [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) - Teach how to use NestJS step by step
-  - [Build web applications with Nest](https://kamilmysliwiec.com/build-modern-scalable-node-js-web-applications-with-nest)
+- 中文教程
+  - [Nestjs 框架教程](https://keelii.com/2019/07/03/nestjs-framework-tutorial-1/)
+  - [Nestjs 学习教程](https://github.com/dzzzzzy/Nestjs-Learning)
+  - [让我们用Nestjs来重写一个CNode](https://github.com/jiayisheji/blog/issues/18)
+- 英文教程
+  - [现代 Node.js 框架简介](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
+  - [NestJS Node Express - 教你如何逐步使用 Nestjs](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) - Teach how to use NestJS step by step
+  - [使用 Nest 构建 Web 应用程序](https://kamilmysliwiec.com/build-modern-scalable-node-js-web-applications-with-nest)
   - [Nestjs30Days](https://github.com/m24927605/Nestjs30Days) - Learn the Nestjs framework in 30 days.
-  - [Build a geofencing web app using Nest.js and the Google Maps API](https://pusher.com/tutorials/geofencing-nestjs-googlemaps)
-  - [Building a chat bot with Nest.js and Dialogflow](https://pusher.com/tutorials/chat-bot-nestjs)
-  - [Build live comments with sentiment analysis using Nest.js](https://pusher.com/tutorials/live-comments-sentiment-analysis-nestjs)
-  - [Build a chat app with sentiment analysis using Nest.js](https://pusher.com/tutorials/chat-sentiment-analysis-nestjs)
-  - [Create a realtime graph using Nest.js](https://pusher.com/tutorials/realtime-graph-nestjs)
-  - [Build a realtime table with DataTables and Nest.js](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
-  - [NestJS Basic Auth and Sessions](https://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
-  - [MEAN Stack with NestJS and Swagger](https://medium.com/@ctran2428/mean-stack-with-nestjs-and-swagger-9d8d14862d6b)
+  - [使用 Nest.js 和 Google Maps API 构建一个地理围栏 Web 应用程序](https://pusher.com/tutorials/geofencing-nestjs-googlemaps)
+  - [使用 Nest.js 和 Dialogflow 构建聊天机器人](https://pusher.com/tutorials/chat-bot-nestjs)
+  - [使用 Nest.js 通过情绪分析构建实时评论](https://pusher.com/tutorials/live-comments-sentiment-analysis-nestjs)
+  - [使用 Nest.js 构建具有情绪分析的聊天应用程序](https://pusher.com/tutorials/chat-sentiment-analysis-nestjs)
+  - [使用 Nest.js 创建实时图形](https://pusher.com/tutorials/realtime-graph-nestjs)
+  - [使用 DataTables 和 Nest.js 构建实时表](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
+  - [NestJS 基础 Auth 和 Sessions](https://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
+  - [使用 NestJS 和 Swagger 的 MEAN 技术栈](https://medium.com/@ctran2428/mean-stack-with-nestjs-and-swagger-9d8d14862d6b)
   - [NestJS Ideas API](https://www.youtube.com/watch?v=NF9Xn4g5MJY&list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc)
-  - [Building a real time web applications using Nest.js and Ably](https://hackernoon.com/building-real-time-web-applications-using-nest-js-and-ably-d85887e81f06)
-  - [Video Tutorials - Building a full-stack blog with NestJs, Angular and Angular Material](https://www.youtube.com/watch?v=nz6yFTyLbAQ&list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL)
+  - [使用 Nest.js 和 Ably 构建实时 Web 应用程序](https://hackernoon.com/building-real-time-web-applications-using-nest-js-and-ably-d85887e81f06)
+  - [视频教程 - 使用 NestJs，Angular 和 Angular Material 构建一个完整的博客](https://www.youtube.com/watch?v=nz6yFTyLbAQ&list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL)
 - Examples
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using Nest
   - [Nestjs API.ai](https://github.com/adrien2p/nest-js-api-ai) - Interact with api.ai in Node.js
@@ -161,7 +165,7 @@
 - Scheduling
   - [Nest Bull](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework :cow:
 
-## 运行工具
+## 运行
 
 - Command Line / Terminal
 
