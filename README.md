@@ -14,11 +14,12 @@
 
 ## 内容
 
-- [资源](#resources)
-- [使用 nestjs 的项目](#projects-using-nestjs)
-- [组件和库](#components--libraries)
-- [集成](#integrations)
-- [运行工具](#runtime)
+- [资源](#资源)
+- [使用NestJS的项目](#使用NestJS的项目)
+- [组件和库](#组件和库)
+- [集成](#集成)
+- [运行](#运行)
+- [其他](#其他)
 
 ## 资源
 
@@ -28,11 +29,9 @@
   - [中文文档](https://docs.nestjs.cn/)
   - [git 仓库](https://github.com/nestjs/nest)
 - 中文教程
-
   - [Nestjs 框架教程](https://keelii.com/2019/07/03/nestjs-framework-tutorial-1/)
   - [Nestjs 学习教程](https://github.com/dzzzzzy/Nestjs-Learning)
   - [让我们用 Nestjs 来重写一个 CNode](https://github.com/jiayisheji/blog/issues/18)
-
 - 英文教程
 
   - [现代 Node.js 框架简介](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
@@ -85,7 +84,7 @@
   - [TeanJS](https://github.com/adrien2p/teanjs) - TeanJS 是一个入门程序，它为您提供所有方式，以便能够尽快开始编写代码 😻
   - [NestJS DDD Boilerplate](https://github.com/pezzetti/base-app-nestjs) 具有 NestJS，类验证器和 TypeORM 的领域驱动设计基础应用程序。完全可测试。
 
-### 使用 NestJS 的项目
+### 使用NestJS的项目
 
 - 开源
 
@@ -94,7 +93,7 @@
   - [LXDhub](https://github.com/Roche/lxdhub) - Linux 容器管理系统（LXC）.
   - [Notadd](https://github.com/notadd/notadd) - 微服务开发架构。
 
-### 常用库
+### 组件和库
 
 - 公用
   - [Nest CQRS](https://github.com/nestjs/cqrs) - Nest 框架的轻量级 CQRS 模块
